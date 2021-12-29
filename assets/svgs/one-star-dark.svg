@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150"
+   height="150"
+   viewBox="0 0 39.687499 39.687501"
+   version="1.1"
+   id="svg1900"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="one-star-dark.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title2067">One Star Dark</title>
+  <sodipodi:namedview
+     id="namedview1902"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="3.1108586"
+     inkscape:cx="66.701843"
+     inkscape:cy="90.007306"
+     inkscape:window-width="1718"
+     inkscape:window-height="1360"
+     inkscape:window-x="1913"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1897" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#565352;fill-opacity:1"
+       id="path1983"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="19.287279"
+       sodipodi:cy="26.680737"
+       sodipodi:r1="20.595688"
+       sodipodi:r2="10.297844"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.1991149"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 19.28728,47.276424 13.234358,35.011867 -0.30038385,33.045155 9.4934477,23.498527 7.1814371,10.018475 19.28728,16.382893 31.39312,10.018475 29.081111,23.498528 38.874942,33.045154 25.3402,35.011868 Z"
+       transform="matrix(0.40522955,0,0,-0.42608356,12.027974,32.049957)"
+       inkscape:transform-center-y="-0.83798388" />
+  </g>
+  <metadata
+     id="metadata2065">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>One Star Dark</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

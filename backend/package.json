@@ -1,0 +1,8 @@
+{
+  "name": "game-of-generals-svc",
+  "version": "0.0.1",
+  "description": "Game of Generals Full-Stack game backend",
+  "main": "index.js",
+  "author": "Cody Uhi",
+  "license": "MIT"
+}

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150"
+   height="150"
+   viewBox="0 0 39.687 39.687"
+   version="1.1"
+   id="svg15770"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="spy-light.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title23353">Spy Light</title>
+  <sodipodi:namedview
+     id="namedview15772"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="3.1108586"
+     inkscape:cx="39.378196"
+     inkscape:cy="-21.858917"
+     inkscape:window-width="1718"
+     inkscape:window-height="1360"
+     inkscape:window-x="1913"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs15767" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g23349"
+       transform="matrix(1.6138638,0,0,1.7250985,-5.0266765,-8.5869199)"
+       style="stroke:#f8f8f8;stroke-opacity:1;fill:#f8f8f8;fill-opacity:1">
+      <path
+         style="fill:#f8f8f8;fill-opacity:1;stroke:#f8f8f8;stroke-width:0.26458px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 12.672521,13.693126 c -0.01226,0.01226 0.07754,-0.579651 0.446515,-2.232575 0.174541,-0.781905 0.701667,-1.105656 1.297021,-0.935555 0.595353,0.170101 0.695515,0.645357 1.552169,0.255152 0.778853,-0.354766 1.081662,-0.465284 1.398018,-0.07442 0.13097,0.161816 0.356849,0.691884 0.4412,1.499015 0.09421,0.901479 0.04188,1.865901 0.350832,1.871111 0.08505,0.04252 0.680404,0.08505 2.083737,0.552828 1.403333,0.467777 1.658484,0.765454 1.148181,1.105656 -0.510302,0.340202 -6.774046,0.336216 -10.88646,0.170101 -1.5755006,-0.06364 -1.4883838,-0.510303 -1.4883838,-0.510303 -0.2252154,-0.423224 0.9045064,-0.808481 1.4671208,-0.935556 0.610388,-0.137865 1.759724,0.0434 2.19005,-0.765454 z"
+         id="path15864"
+         sodipodi:nodetypes="cssssscsssssc" />
+      <ellipse
+         style="fill:#f8f8f8;fill-opacity:1;stroke:#f8f8f8;stroke-width:0.298648;stroke-opacity:1"
+         id="path20771"
+         cx="18.424356"
+         cy="10.562499"
+         rx="0.9277271"
+         ry="0.67444807"
+         transform="matrix(0.93165563,0.36334253,-0.32871273,0.94442996,0,0)" />
+      <ellipse
+         style="fill:#f8f8f8;fill-opacity:1;stroke:#f8f8f8;stroke-width:0.298648;stroke-opacity:1"
+         id="path20771-6"
+         cx="-10.076096"
+         cy="21.572264"
+         rx="0.9277271"
+         ry="0.67444807"
+         transform="matrix(-0.93165563,0.36334253,0.32871273,0.94442996,0,0)" />
+      <path
+         style="fill:#f8f8f8;fill-opacity:1;stroke:#f8f8f8;stroke-width:0.26458px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 9.7272028,16.96757 c 4.2691732,1.87111 8.3361432,2.062473 8.6531042,1.297019 0.316961,-0.765454 -0.692006,-1.513172 -0.07417,-1.275757 1.837481,0.706094 4.297444,1.743004 3.297358,2.466465 -1.181252,0.854514 -8.699078,0.229217 -2.693345,2.253837 6.748712,2.275089 -7.647419,-1.052419 -6.410434,-1.275758 0.913232,-0.164885 4.189703,1.497657 -1.949859,-2.36015 C 9.0493653,17.130392 9.7272028,16.96757 9.7272028,16.96757 Z"
+         id="path20949"
+         sodipodi:nodetypes="cssssssc" />
+    </g>
+  </g>
+  <metadata
+     id="metadata23351">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Spy Light</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

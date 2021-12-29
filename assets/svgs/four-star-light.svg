@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150"
+   height="150"
+   viewBox="0 0 39.687499 39.687501"
+   version="1.1"
+   id="svg2052"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="four-star-light.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title2417">Four Star Light</title>
+  <sodipodi:namedview
+     id="namedview2054"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="6.2217172"
+     inkscape:cx="63.728387"
+     inkscape:cy="80.524393"
+     inkscape:window-width="1718"
+     inkscape:window-height="1360"
+     inkscape:window-x="1913"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2049" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#f8f8f8;fill-opacity:1"
+       id="path2102"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="34.717106"
+       sodipodi:cy="27.805828"
+       sodipodi:r1="12.858187"
+       sodipodi:r2="6.4290934"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.1991149"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 34.717106,40.664015 -3.778927,-7.656941 -8.449935,-1.227847 6.114431,-5.960098 -1.443422,-8.415792 7.557853,3.973398 7.557852,-3.973399 -1.443421,8.415793 6.114431,5.960097 -8.449936,1.227848 z"
+       transform="matrix(0.43271946,0,0,-0.45498816,-1.7936007,26.439145)"
+       inkscape:transform-center-y="-0.55865609" />
+    <path
+       sodipodi:type="star"
+       style="fill:#f8f8f8;fill-opacity:1"
+       id="path2102-7"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="34.717106"
+       sodipodi:cy="27.805828"
+       sodipodi:r1="12.858187"
+       sodipodi:r2="6.4290934"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.1991149"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       transform="matrix(0.43271946,0,0,-0.45498816,11.435566,39.668312)"
+       inkscape:transform-center-y="-0.55865609"
+       d="m 34.717106,40.664015 -3.778927,-7.656941 -8.449935,-1.227847 6.114431,-5.960098 -1.443422,-8.415792 7.557853,3.973398 7.557852,-3.973399 -1.443421,8.415793 6.114431,5.960097 -8.449936,1.227848 z" />
+    <path
+       sodipodi:type="star"
+       style="fill:#f8f8f8;fill-opacity:1"
+       id="path2102-70"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="34.717106"
+       sodipodi:cy="27.805828"
+       sodipodi:r1="12.858187"
+       sodipodi:r2="6.4290934"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.1991149"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       transform="matrix(0.43271946,0,0,-0.45498816,11.435566,26.439145)"
+       inkscape:transform-center-y="-0.55865609"
+       d="m 34.717106,40.664015 -3.778927,-7.656941 -8.449935,-1.227847 6.114431,-5.960098 -1.443422,-8.415792 7.557853,3.973398 7.557852,-3.973399 -1.443421,8.415793 6.114431,5.960097 -8.449936,1.227848 z" />
+    <path
+       sodipodi:type="star"
+       style="fill:#f8f8f8;fill-opacity:1"
+       id="path2102-9"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="34.717106"
+       sodipodi:cy="27.805828"
+       sodipodi:r1="12.858187"
+       sodipodi:r2="6.4290934"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.1991149"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       transform="matrix(0.43271946,0,0,-0.45498816,-1.7936007,39.668312)"
+       inkscape:transform-center-y="-0.55865609"
+       d="m 34.717106,40.664015 -3.778927,-7.656941 -8.449935,-1.227847 6.114431,-5.960098 -1.443422,-8.415792 7.557853,3.973398 7.557852,-3.973399 -1.443421,8.415793 6.114431,5.960097 -8.449936,1.227848 z" />
+  </g>
+  <metadata
+     id="metadata2415">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Four Star Light</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
