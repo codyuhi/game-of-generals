@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150"
+   height="150"
+   viewBox="0 0 39.687499 39.687501"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="flag-light.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1716">Flag Dark</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="4.3994184"
+     inkscape:cx="77.396594"
+     inkscape:cy="79.783273"
+     inkscape:window-width="1718"
+     inkscape:window-height="1360"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1712"
+       transform="matrix(1.1059006,0,0,1.0413314,-6.7139111,-2.7952663)"
+       style="fill:#f8f8f8;fill-opacity:1;stroke:#f8f8f8;stroke-opacity:1">
+      <rect
+         style="fill:#f8f8f8;fill-opacity:1;stroke:#f8f8f8;stroke-width:0.257703;stroke-opacity:1"
+         id="rect846"
+         width="2.8307703"
+         height="26.281979"
+         x="9.2903795"
+         y="9.573101"
+         transform="matrix(1,0,0.28912724,0.95729068,0,0)"
+         rx="0.4994683" />
+      <rect
+         style="fill:#f8f8f8;fill-opacity:1;stroke:#f8f8f8;stroke-width:0.278853;stroke-opacity:1"
+         id="rect1280"
+         width="13.550691"
+         height="12.168908"
+         x="7.6236935"
+         y="10.173962"
+         rx="1.5631428"
+         transform="matrix(1,-6.2877317e-8,0.4353249,0.90027342,0,0)" />
+      <rect
+         style="fill:#f8f8f8;fill-opacity:1;stroke:#f8f8f8;stroke-width:0.278853;stroke-opacity:1"
+         id="rect1280-9"
+         width="13.550691"
+         height="12.168908"
+         x="11.443371"
+         y="13.956301"
+         rx="1.5631428"
+         transform="matrix(1,-6.2877317e-8,0.4353249,0.90027342,0,0)" />
+    </g>
+  </g>
+  <metadata
+     id="metadata1714">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Flag Dark</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
